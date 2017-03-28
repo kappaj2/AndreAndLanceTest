@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is C0F7-8A09
+
+ Directory of D:\DevelopmentProjects\LanceAndre\AndreAndLanceTest
+
+28/03/2017  12:40    <DIR>          .
+28/03/2017  12:40    <DIR>          ..
+28/03/2017  12:40                 0 andre.txt
+28/03/2017  12:40                 9 testFile
+               2 File(s)              9 bytes
+               2 Dir(s)  111,448,240,128 bytes free
